@@ -5,6 +5,8 @@
 - 💻 Focused on working with **full-stack development**.
 - 🚀 Experienced in **Quality Assurance** and **Backend Development**.
 - 📚 Passionate about exploring new **technologies** and **tools**.
+- 🧑‍🎓 Currently studying for a **Bachelor's degree in Computer Engineering** at **DCA/UFRN**.
+
 
 ### Skillset
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
