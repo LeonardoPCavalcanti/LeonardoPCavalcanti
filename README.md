@@ -40,14 +40,23 @@ I'm a **Junior Software Developer** and **Computer Engineering student** with ex
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPCavalcanti&layout=compact&langs_count=8&theme=github_dark" 
-    alt="Most Used Languages"
+  <img
+    src="https://streak-stats.demolab.com?user=LeonardoPCavalcanti&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+    height="165"
   />
 </p>
+
+<p align="left">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoPCavalcanti&theme=github-compact"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
 
 ---
 
