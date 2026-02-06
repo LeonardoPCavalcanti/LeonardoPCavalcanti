@@ -48,5 +48,5 @@ I'm a **Junior Software Developer** and **Computer Engineering student** with ex
 ---
 
 ### 📫 Let’s connect
-- 💼 LinkedIn: https://www.linkedin.com/in/leonardo-pessoa-cavalcanti  
+- 💼 LinkedIn: https://www.linkedin.com/in/leonardocavalcanti-dev
 - 📧 Email: leopcavalcanti30@gmail.com
