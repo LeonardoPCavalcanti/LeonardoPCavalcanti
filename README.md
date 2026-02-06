@@ -44,8 +44,14 @@ I'm a **Junior Software Developer** and **Computer Engineering student** with ex
 
 <p align="left">
   <img 
+    src="https://streak-stats.demolab.com?user=LeonardoPCavalcanti&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+    height="165"
+  />
+  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPCavalcanti&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=1800"
     alt="Most Used Languages"
+    height="165"
   />
 </p>
 
