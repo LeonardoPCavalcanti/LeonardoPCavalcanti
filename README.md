@@ -43,28 +43,6 @@
 
 ---
 
-<h3 align="center">Nível de Habilidades:</h3>
-
-<table align="center">
-<tr><th>Área</th><th>Tecnologia</th><th>Nível</th></tr>
-<tr><td rowspan="4">Backend</td><td>Node.js / Express</td><td>⭐⭐⭐⭐ Avançado</td></tr>
-<tr><td>Python</td><td>⭐⭐⭐⭐ Avançado</td></tr>
-<tr><td>Go (Gin)</td><td>⭐⭐⭐ Intermediário</td></tr>
-<tr><td>Java</td><td>⭐⭐ Básico–Intermediário</td></tr>
-<tr><td rowspan="3">Frontend</td><td>React</td><td>⭐⭐⭐⭐ Avançado</td></tr>
-<tr><td>TypeScript</td><td>⭐⭐⭐ Intermediário</td></tr>
-<tr><td>Tailwind CSS</td><td>⭐⭐⭐ Intermediário</td></tr>
-<tr><td rowspan="4">Infra & DevOps</td><td>Docker / Compose</td><td>⭐⭐⭐⭐ Avançado</td></tr>
-<tr><td>GitHub Actions</td><td>⭐⭐⭐⭐ Avançado</td></tr>
-<tr><td>PostgreSQL</td><td>⭐⭐⭐⭐ Avançado</td></tr>
-<tr><td>Linux / Shell</td><td>⭐⭐⭐⭐ Avançado</td></tr>
-<tr><td rowspan="3">Especializado</td><td>Computação Paralela (OpenMP, MPI)</td><td>⭐⭐⭐⭐ Avançado</td></tr>
-<tr><td>Sistemas Distribuídos (RPC, gRPC)</td><td>⭐⭐⭐ Intermediário</td></tr>
-<tr><td>Teoria de Compiladores</td><td>⭐⭐⭐ Intermediário</td></tr>
-</table>
-
----
-
 <h3 align="center">Estatísticas do GitHub:</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LeonardoPCavalcanti&show_icons=true&theme=default&hide_border=true&count_private=true" alt="stats" />
