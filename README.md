@@ -1,21 +1,15 @@
 <h1 align="center">Oi 👋, eu sou o Leonardo Cavalcanti</h1>
-<h3 align="center">Desenvolvedor Full-Stack Junior na <a href="https://scontain.com" target="_blank">Scontain</a> · Estudante de Engenharia da Computação na UFRN</h3>
+<h3 align="center">Desenvolvedor Full-Stack Junior· Estudante de Engenharia da Computação na UFRN</h3>
 
 ---
 
-- 🔭 Atualmente estou desenvolvendo o **[controle-estoque-zoonoses](https://github.com/LeonardoPCavalcanti/controle-estoque-zoonoses)** — um sistema full-stack de gerenciamento de insumos para centros de zoonoses, com React, Node.js, PostgreSQL e Docker
+-  Estou aprofundando meus conhecimentos em **arquitetura de sistemas, design de APIs RESTful e computação segura/confidencial**
 
-- 🌱 Estou aprofundando meus conhecimentos em **arquitetura de sistemas, design de APIs RESTful e computação segura/confidencial**
+-  Sou bolsista de Iniciação Científica na UFRN, em parceria com a **[Scontain](https://scontain.com)**, atuando como **Desenvolvedor Full-Stack Junior** em soluções de **computação confidencial**
 
-- 🔬 Sou bolsista de Iniciação Científica na **[Scontain](https://scontain.com)**, trabalhando como **Desenvolvedor Full-Stack Junior** em soluções de **computação confidencial** — tecnologia que permite executar código de forma segura mesmo em ambientes não confiáveis
+-  Fui estagiário de desenvolvimento de software na **SEEC/RN**, onde trabalhei com programação full-stack, manutenção de sistemas backend, automação de infraestrutura e QA
 
-- 💼 Fui estagiário de desenvolvimento de software na **SEEC/RN**, onde trabalhei com manutenção de sistemas backend, automação de infraestrutura e QA
-
-- 💬 Me pergunte sobre **Node.js, Docker, OpenMP/MPI, Python ou teoria de compiladores**
-
-- 📄 Conheça minha trajetória: **[LinkedIn](https://www.linkedin.com/in/leonardocavalcanti-dev)**
-
-- ⚡ Curiosidade: já implementei uma simulação de dinâmica de fluidos (Navier-Stokes) em paralelo com OpenMP, rodando em cluster HPC com SLURM — e ela realmente convergiu!
+-  Conheça minha trajetória: **[LinkedIn](https://www.linkedin.com/in/leonardocavalcanti-dev)**
 
 ---
 
