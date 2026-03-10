@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou o Leonardo Cavalcanti</h1>
-<h3 align="center">Desenvolvedor Full-Stack Junior· Estudante de Engenharia da Computação na UFRN</h3>
+<h3 align="center">Desenvolvedor Full-Stack Junior. Estudante de Engenharia da Computação na UFRN</h3>
 
 ---
 
