@@ -1,120 +1,78 @@
-<div align="center">
-
-# Leonardo Pessoa Cavalcanti
-
-**Software Developer · Computer Engineering @ UFRN**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardocavalcanti-dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leopcavalcanti30@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/LeonardoPCavalcanti?style=flat&logo=github)](https://github.com/LeonardoPCavalcanti)
-
-</div>
+<h1 align="center">Oi 👋, eu sou o Leonardo Cavalcanti</h1>
+<h3 align="center">Desenvolvedor backend apaixonado por sistemas, infraestrutura e computação paralela — estudante de Engenharia da Computação na UFRN</h3>
 
 ---
 
-## About Me
+- 🔭 Atualmente estou desenvolvendo o **[controle-estoque-zoonoses](https://github.com/LeonardoPCavalcanti/controle-estoque-zoonoses)** — um sistema full-stack de gerenciamento de insumos para centros de zoonoses, com React, Node.js, PostgreSQL e Docker
 
-Backend-focused developer and Computer Engineering student at UFRN, with hands-on experience building full-stack applications, containerized services, and data pipelines. I combine solid academic foundations in systems programming with practical experience from internship and research.
+- 🌱 Estou aprofundando meus conhecimentos em **arquitetura de sistemas, design de APIs RESTful e computação segura/confidencial**
 
-- 🎓 B.Sc. in Science and Technology — ECT/UFRN | Computer Engineering — DCA/UFRN
-- 🔬 Scientific Initiation researcher — confidential computing & resource-constrained environments
-- 💼 Former Software Development Intern — SEEC/RN (backend maintenance, QA, infrastructure automation)
+- 🔬 Sou bolsista de Iniciação Científica pesquisando **sistemas seguros e ambientes com restrição de recursos**
 
----
+- 💼 Fui estagiário de desenvolvimento de software na **SEEC/RN**, onde trabalhei com manutenção de sistemas backend, automação de infraestrutura e QA
 
-## Tech Stack & Skill Levels
+- 💬 Me pergunte sobre **Node.js, Docker, OpenMP/MPI, Python ou teoria de compiladores**
 
-### Languages
+- 📄 Conheça minha trajetória: **[LinkedIn](https://www.linkedin.com/in/leonardocavalcanti-dev)**
 
-| Language | Level | Context |
-|---|---|---|
-| JavaScript / Node.js | ⭐⭐⭐⭐ Advanced | REST APIs, Express, backend services |
-| Python | ⭐⭐⭐⭐ Advanced | Scripting, data analysis, compiler theory |
-| C / C++ | ⭐⭐⭐ Intermediate | Systems programming, parallel computing (OpenMP, MPI) |
-| Go | ⭐⭐⭐ Intermediate | Web services (Gin), design patterns |
-| Java | ⭐⭐ Basic–Intermediate | OOP coursework, algorithms |
-
-### Frontend
-
-| Technology | Level |
-|---|---|
-| React | ⭐⭐⭐⭐ Advanced |
-| TypeScript | ⭐⭐⭐ Intermediate |
-| Tailwind CSS | ⭐⭐⭐ Intermediate |
-
-### Infrastructure & DevOps
-
-| Technology | Level | Context |
-|---|---|---|
-| Docker / Docker Compose | ⭐⭐⭐⭐ Advanced | Multi-service containerization, CI/CD |
-| GitHub Actions | ⭐⭐⭐⭐ Advanced | Automated testing and deployment pipelines |
-| PostgreSQL | ⭐⭐⭐⭐ Advanced | Relational modeling, Sequelize ORM |
-| Linux / Shell | ⭐⭐⭐⭐ Advanced | Scripting, environment configuration |
-| Git | ⭐⭐⭐⭐ Advanced | Version control, branching strategies |
-
-### Specialized Knowledge
-
-| Area | Level |
-|---|---|
-| Parallel Computing (OpenMP, MPI) | ⭐⭐⭐⭐ Advanced |
-| Distributed Systems (RPC, Protobuf) | ⭐⭐⭐ Intermediate |
-| Compiler Construction (Lexer, Parser, IR) | ⭐⭐⭐ Intermediate |
-| Secure / Confidential Computing | ⭐⭐ Studying |
-| System Design & Architecture | ⭐⭐⭐ Intermediate |
+- ⚡ Curiosidade: já implementei uma simulação de dinâmica de fluidos (Navier-Stokes) em paralelo com OpenMP, rodando em cluster HPC com SLURM — e ela realmente convergiu!
 
 ---
 
-## Featured Projects
-
-### [controle-estoque-zoonoses](https://github.com/LeonardoPCavalcanti/controle-estoque-zoonoses)
-Full-stack inventory management system built for zoonosis control centers. Features a React frontend, Node.js/Express API with PostgreSQL, full Docker Compose orchestration, automated test suite (Jest), and CI/CD pipeline via GitHub Actions.
-
-**Stack:** React · Node.js · Express · PostgreSQL · Docker · GitHub Actions
-
----
-
-### [parallel-computing](https://github.com/LeonardoPCavalcanti/parallel-computing)
-Academic project covering 20 tasks in parallel and distributed computing. Includes OpenMP, MPI, and OpenMP offloading (target) implementations of matrix operations, fluid dynamics (Navier-Stokes), and performance benchmarking on HPC clusters (SLURM).
-
-**Stack:** C · OpenMP · MPI · Python (visualization) · SLURM
+<h3 align="center">Conecte-se comigo:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/leonardocavalcanti-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardocavalcanti-dev" height="30" width="40" /></a>
+<a href="mailto:leopcavalcanti30@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="leopcavalcanti30@gmail.com" height="30" width="40" /></a>
+<a href="https://github.com/LeonardoPCavalcanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LeonardoPCavalcanti" height="30" width="40" /></a>
+</p>
 
 ---
 
-### [tradutor_expr](https://github.com/LeonardoPCavalcanti/tradutor_expr)
-Arithmetic expression translator implementing a full compiler pipeline: lexical analysis (RegEx), LL(1) recursive-descent parser, and 3-address intermediate code generation, with a REPL interface.
-
-**Stack:** Python
-
----
-
-### [aulasES](https://github.com/LeonardoPCavalcanti/aulasES)
-Design patterns and SOLID principles implemented in Go using the Gin web framework.
-
-**Stack:** Go · Gin
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoPCavalcanti&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPCavalcanti&layout=compact&hide_border=true&theme=default)
-
-</div>
+<h3 align="center">Linguagens e Ferramentas:</h3>
+<p align="center">
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+</p>
 
 ---
 
-## Currently Learning
+<h3 align="center">Nível de Habilidades:</h3>
 
-- Advanced system design and distributed architecture patterns
-- Secure and confidential computing for edge environments
-- Algorithms & data structures for competitive programming
+<table align="center">
+<tr><th>Área</th><th>Tecnologia</th><th>Nível</th></tr>
+<tr><td rowspan="4">Backend</td><td>Node.js / Express</td><td>⭐⭐⭐⭐ Avançado</td></tr>
+<tr><td>Python</td><td>⭐⭐⭐⭐ Avançado</td></tr>
+<tr><td>Go (Gin)</td><td>⭐⭐⭐ Intermediário</td></tr>
+<tr><td>Java</td><td>⭐⭐ Básico–Intermediário</td></tr>
+<tr><td rowspan="3">Frontend</td><td>React</td><td>⭐⭐⭐⭐ Avançado</td></tr>
+<tr><td>TypeScript</td><td>⭐⭐⭐ Intermediário</td></tr>
+<tr><td>Tailwind CSS</td><td>⭐⭐⭐ Intermediário</td></tr>
+<tr><td rowspan="4">Infra & DevOps</td><td>Docker / Compose</td><td>⭐⭐⭐⭐ Avançado</td></tr>
+<tr><td>GitHub Actions</td><td>⭐⭐⭐⭐ Avançado</td></tr>
+<tr><td>PostgreSQL</td><td>⭐⭐⭐⭐ Avançado</td></tr>
+<tr><td>Linux / Shell</td><td>⭐⭐⭐⭐ Avançado</td></tr>
+<tr><td rowspan="3">Especializado</td><td>Computação Paralela (OpenMP, MPI)</td><td>⭐⭐⭐⭐ Avançado</td></tr>
+<tr><td>Sistemas Distribuídos (RPC, gRPC)</td><td>⭐⭐⭐ Intermediário</td></tr>
+<tr><td>Teoria de Compiladores</td><td>⭐⭐⭐ Intermediário</td></tr>
+</table>
 
 ---
 
-<div align="center">
-
-*Open to software engineering opportunities — internships and junior roles.*
-
-</div>
+<h3 align="center">Estatísticas do GitHub:</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LeonardoPCavalcanti&show_icons=true&theme=default&hide_border=true&count_private=true" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPCavalcanti&layout=compact&hide_border=true&theme=default" alt="langs" />
+</p>
