@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou o Leonardo Cavalcanti</h1>
-<h3 align="center">Desenvolvedor backend apaixonado por sistemas, infraestrutura e computação paralela — estudante de Engenharia da Computação na UFRN</h3>
+<h3 align="center">Desenvolvedor Full-Stack Junior na <a href="https://scontain.com" target="_blank">Scontain</a> · Estudante de Engenharia da Computação na UFRN</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 - 🌱 Estou aprofundando meus conhecimentos em **arquitetura de sistemas, design de APIs RESTful e computação segura/confidencial**
 
-- 🔬 Sou bolsista de Iniciação Científica pesquisando **sistemas seguros e ambientes com restrição de recursos**
+- 🔬 Sou bolsista de Iniciação Científica na **[Scontain](https://scontain.com)**, trabalhando como **Desenvolvedor Full-Stack Junior** em soluções de **computação confidencial** — tecnologia que permite executar código de forma segura mesmo em ambientes não confiáveis
 
 - 💼 Fui estagiário de desenvolvimento de software na **SEEC/RN**, onde trabalhei com manutenção de sistemas backend, automação de infraestrutura e QA
 
