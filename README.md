@@ -3,7 +3,7 @@
 
 ---
 
-- Bolsista de Iniciacao Cientifica na UFRN, em parceria com a **[Scontain](https://scontain.com)**, desenvolvendo solucoes de **computacao confidencial** como **Desenvolvedor Full-Stack Junior**
+- Bolsista de Iniciacao Cientifica no IMD desenvolvendo solucoes de **computacao confidencial** como **Desenvolvedor Full-Stack Junior**
 
 - Bolsista como Tecnico de Redes e Infraestrutura no CCHLA
 
