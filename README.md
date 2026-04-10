@@ -1,13 +1,15 @@
 <h1 align="center">Leonardo Cavalcanti</h1>
-<h3 align="center">Desenvolvedor Full-Stack | Engenharia da Computacao - UFRN</h3>
+<h3 align="center">Desenvolvedor Full-Stack Junior | Engenharia da Computacao - UFRN</h3>
 
 ---
 
 - Bolsista de Iniciacao Cientifica na UFRN, em parceria com a **[Scontain](https://scontain.com)**, desenvolvendo solucoes de **computacao confidencial** como **Desenvolvedor Full-Stack Junior**
 
+- Bolsista como Tecnico de Redes e Infraestrutura no CCHLA
+
 - Ex-estagiario na **SEEC/RN** — desenvolvimento full-stack, manutencao de sistemas backend, automacao de infraestrutura e QA
 
-- Foco atual: **arquitetura de sistemas distribuidos, APIs RESTful e aplicacoes full-stack com deploy em cloud**
+- Foco atual: **Desenvolvimento em aplicacoes full-stack**
 
 - **[LinkedIn](https://www.linkedin.com/in/leonardocavalcanti-dev)** · **[Email](mailto:leopcavalcanti30@gmail.com)**
 
