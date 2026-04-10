@@ -3,13 +3,13 @@
 
 ---
 
-- Bolsista de Iniciacao Cientifica no IMD desenvolvendo solucoes de **computacao confidencial** como **Desenvolvedor Full-Stack Junior**
+- Bolsista de Iniciacao Cientifica no **IMD/UFRN** — desenvolvimento de solucoes de **computacao confidencial** como Desenvolvedor Full-Stack Junior
 
-- Bolsista como Tecnico de Redes e Infraestrutura no CCHLA
+- Bolsista como Tecnico de Redes e Infraestrutura no **CCHLA/UFRN**
 
 - Ex-estagiario na **SEEC/RN** — desenvolvimento full-stack, manutencao de sistemas backend, automacao de infraestrutura e QA
 
-- Foco atual: **Desenvolvimento em aplicacoes full-stack**
+- Foco atual: **desenvolvimento de aplicacoes full-stack**
 
 - **[LinkedIn](https://www.linkedin.com/in/leonardocavalcanti-dev)** · **[Email](mailto:leopcavalcanti30@gmail.com)**
 
