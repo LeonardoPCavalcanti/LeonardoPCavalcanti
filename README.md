@@ -1,6 +1,7 @@
 <h1 align="center">Leonardo Cavalcanti</h1>
-<h3 align="center">Desenvolvedor Full-Stack Junior</h3>
-<p align="center">Engenharia da Computacao — UFRN</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack+Junior;Engenharia+da+Computacao+-+UFRN;Apaixonado+por+Tecnologia" />
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/leonardocavalcanti-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -147,13 +148,8 @@ Tradutor de expressoes aritmeticas com lexer, parser LL(1) e geracao de codigo i
 </tr>
 </table>
 
-<h3 align="center">Estatisticas</h3>
+<h3 align="center">Atividade</h3>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonardoPCavalcanti&show_icons=true&hide_border=true&count_private=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPCavalcanti&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="langs" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoPCavalcanti&hide_border=true&theme=github-dark-blue&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoPCavalcanti&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 </p>
