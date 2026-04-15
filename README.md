@@ -150,7 +150,7 @@ Tradutor de expressoes aritmeticas com lexer, parser LL(1) e geracao de codigo i
 <h3 align="center">Estatisticas</h3>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonardoPCavalcanti&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonardoPCavalcanti&show_icons=true&hide_border=true&count_private=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPCavalcanti&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="langs" />
 </p>
 
