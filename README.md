@@ -1,22 +1,25 @@
 <h1 align="center">Leonardo Cavalcanti</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack+Junior;Engenharia+da+Computacao+-+UFRN;Apaixonado+por+Tecnologia" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Syne&weight=700&color=30B8FF&size=24&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full-Stack+Junior;Engenharia+da+Computa%C3%A7%C3%A3o+%E2%80%94+UFRN;C%C3%B3digo+%C2%B7+Arquitetura+%C2%B7+Design+Interativo" alt="Leonardo Cavalcanti" />
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/leonardocavalcanti-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:leopcavalcanti30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/LeonardoPCavalcanti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leonardopcavalcanti.github.io/portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-30B8FF?style=for-the-badge&logo=vercel&logoColor=080808" alt="Portfólio"/></a>
+  <a href="https://www.linkedin.com/in/leonardocavalcanti-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:leopcavalcanti30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=LeonardoPCavalcanti&style=for-the-badge&color=30B8FF&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
 
 ---
 
 ### Sobre
 
-- Bolsista de Iniciacao Cientifica no **IMD/UFRN** — desenvolvimento de solucoes de **computacao confidencial** como Desenvolvedor Full-Stack Junior
-- Bolsista como Tecnico de Redes e Infraestrutura no **CCHLA/UFRN**
-- Ex-estagiario na **SEEC/RN** — desenvolvimento full-stack, manutencao de sistemas backend, automacao de infraestrutura e QA
-- Foco atual: **desenvolvimento de aplicacoes full-stack**
+- Bolsista de Iniciação Científica no **IMD/UFRN** — desenvolvimento de soluções de **computação confidencial** como Desenvolvedor Full-Stack
+- Ex-bolsista como Técnico de Redes e Infraestrutura no **CCHLA/UFRN**
+- Ex-estagiário na **SEEC/RN** — desenvolvimento full-stack, manutenção de sistemas backend, automação de infraestrutura e QA
+- Graduando em **Engenharia da Computação** na UFRN, em Natal/RN
+- Foco atual: **aplicações full-stack robustas** e interfaces que comunicam com precisão
 
 ---
 
@@ -26,48 +29,64 @@
 <tr>
 <td width="50%" valign="top">
 
+**[CineReserve API](https://github.com/LeonardoPCavalcanti/cinereserve)**
+API RESTful de cinema com reserva de assentos sob **controle de concorrência**: autenticação JWT, sessões e bilhetagem, tarefas assíncronas e documentação Swagger. 30 testes automatizados.
+`Django REST` `PostgreSQL` `Redis` `Celery` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
 **[EloBelle E-commerce](https://github.com/LeonardoPCavalcanti/elobelle-ecommerce)**
-E-commerce completo de moda feminina com painel admin, checkout integrado com MercadoPago, sistema de reviews, cupons, chat de suporte e notificacoes.
+E-commerce completo de moda feminina com painel admin, checkout integrado com MercadoPago, reviews, cupons, chat de suporte e notificações.
 `Next.js` `Spring Boot` `PostgreSQL` `Java` `TypeScript`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[FileVault](https://github.com/LeonardoPCavalcanti/filevault)**
-Aplicacao de upload de arquivos com presigned URLs, monorepo Turborepo e deploy automatizado.
+Aplicação de upload de arquivos com presigned URLs, monorepo Turborepo e deploy automatizado.
 `NestJS` `React` `Cloudflare R2` `Turborepo` `TypeScript`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[Zoonoses Inventory System](https://github.com/LeonardoPCavalcanti/zoonoses-inventory-system)**
-Sistema full-stack de gestao de inventario para centros de zoonoses, com CI/CD e containerizacao.
+Sistema full-stack de gestão de inventário para centros de zoonoses, com CI/CD e containerização.
 `React` `Node.js` `Express` `PostgreSQL` `Docker` `GitHub Actions`
-
-</td>
-<td width="50%" valign="top">
-
-**[Distributed Twitter Consistency](https://github.com/LeonardoPCavalcanti/distributed-twitter-consistency)**
-Implementacao de consistencia eventual vs. causal em sistema de micro-blogging distribuido com Vector Clocks.
-`Python` `Sistemas Distribuidos`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Parallel Computing](https://github.com/LeonardoPCavalcanti/c-openmp-mpi-parallel-computing)**
-Computacao paralela e distribuida com OpenMP, MPI e GPU offloading em cluster HPC (SLURM).
-`C` `OpenMP` `MPI` `SLURM`
+**[Distributed Twitter Consistency](https://github.com/LeonardoPCavalcanti/distributed-twitter-consistency)**
+Implementação de consistência eventual vs. causal em micro-blogging distribuído com Vector Clocks.
+`Python` `Sistemas Distribuídos`
 
 </td>
 <td width="50%" valign="top">
 
+**[Parallel Computing](https://github.com/LeonardoPCavalcanti/c-openmp-mpi-parallel-computing)**
+Computação paralela e distribuída com OpenMP, MPI e GPU offloading em cluster HPC (SLURM).
+`C` `OpenMP` `MPI` `SLURM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **[Expression Compiler](https://github.com/LeonardoPCavalcanti/python-expression-compiler)**
-Tradutor de expressoes aritmeticas com lexer, parser LL(1) e geracao de codigo intermediario 3-enderecos.
+Tradutor de expressões aritméticas com lexer, parser LL(1) e geração de código intermediário de 3 endereços.
 `Python` `Compiladores`
+
+</td>
+<td width="50%" valign="top">
+
+**[Ver todos no Portfólio →](https://leonardopcavalcanti.github.io/portfolio/)**
+Portfólio interativo com tema dark editorial, construído em React + Vite + TypeScript e publicado via GitHub Pages.
+`React` `Vite` `TypeScript` `Framer Motion`
 
 </td>
 </tr>
@@ -75,7 +94,7 @@ Tradutor de expressoes aritmeticas com lexer, parser LL(1) e geracao de codigo i
 
 ---
 
-<h3 align="center">Stack Tecnica</h3>
+<h3 align="center">Stack Técnica</h3>
 
 <table align="center">
 <tr>
@@ -88,8 +107,6 @@ Tradutor de expressoes aritmeticas com lexer, parser LL(1) e geracao de codigo i
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
 </tr>
@@ -101,6 +118,7 @@ Tradutor de expressoes aritmeticas com lexer, parser LL(1) e geracao de codigo i
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 </td>
 </tr>
@@ -112,15 +130,18 @@ Tradutor de expressoes aritmeticas com lexer, parser LL(1) e geracao de codigo i
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td valign="top" align="center"><b>Banco de Dados</b></td>
+<td valign="top" align="center"><b>Dados & Mensageria</b></td>
 <td valign="top">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
 </td>
 </tr>
@@ -142,14 +163,25 @@ Tradutor de expressoes aritmeticas com lexer, parser LL(1) e geracao de codigo i
 <td valign="top">
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </td>
 </tr>
 </table>
 
+---
+
+<h3 align="center">GitHub em Números</h3>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonardoPCavalcanti&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=30B8FF&icon_color=30B8FF&text_color=C9D1D9" alt="estatísticas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPCavalcanti&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=30B8FF&text_color=C9D1D9" alt="linguagens" />
+</p>
+
 <h3 align="center">Atividade</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoPCavalcanti&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoPCavalcanti&bg_color=0d1117&color=30B8FF&line=30B8FF&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 </p>
