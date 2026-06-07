@@ -102,13 +102,6 @@
 
 ---
 
-<h3 align="center">GitHub em Números</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonardoPCavalcanti&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=30B8FF&icon_color=30B8FF&text_color=C9D1D9" alt="estatísticas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPCavalcanti&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=30B8FF&text_color=C9D1D9" alt="linguagens" />
-</p>
-
 <h3 align="center">Atividade</h3>
 
 <p align="center">
