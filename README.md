@@ -1,14 +1,14 @@
 <h1 align="center">Leonardo Cavalcanti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Syne&weight=700&color=30B8FF&size=24&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full-Stack+Junior;Engenharia+da+Computa%C3%A7%C3%A3o+%E2%80%94+UFRN;C%C3%B3digo+%C2%B7+Arquitetura+%C2%B7+Design+Interativo" alt="Leonardo Cavalcanti" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Syne&weight=700&color=C9E265&size=24&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full-Stack+Junior;Engenharia+da+Computa%C3%A7%C3%A3o+%E2%80%94+UFRN;C%C3%B3digo+%C2%B7+Arquitetura+%C2%B7+Design+Interativo" alt="Leonardo Cavalcanti" />
 </p>
 
 <p align="center">
-  <a href="https://leonardopcavalcanti.github.io/portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-30B8FF?style=for-the-badge&logo=vercel&logoColor=080808" alt="Portfólio"/></a>
+  <a href="https://leonardopcavalcanti.github.io/portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-C9E265?style=for-the-badge&logo=vercel&logoColor=080808" alt="Portfólio"/></a>
   <a href="https://www.linkedin.com/in/leonardocavalcanti-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:leopcavalcanti30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=LeonardoPCavalcanti&style=for-the-badge&color=30B8FF&label=PROFILE+VIEWS" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=LeonardoPCavalcanti&style=for-the-badge&color=C9E265&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
 
 ---
@@ -102,8 +102,24 @@
 
 ---
 
+<h3 align="center">Projetos em destaque</h3>
+
+<p align="center"><i>Estou voltado à área acadêmica — cada projeto isola um conceito de Ciência da Computação e o torna tangível. Sinta-se à vontade para estudar junto.</i></p>
+
+| Projeto | Conceito que estuda | Links |
+|---|---|---|
+| **CineReserve** | Controle de concorrência: locks distribuídos atômicos (Redis `SET NX EX`), race conditions e idempotência | [código](https://github.com/LeonardoPCavalcanti/cinereserve) · [demo](https://leonardopcavalcanti.github.io/cinereserve/) |
+| **Distributed Twitter** | Sistemas distribuídos: relação *happened-before* de Lamport, Vector Clocks e consistência causal vs. eventual | [código](https://github.com/LeonardoPCavalcanti/distributed-twitter-consistency) · [demo](https://leonardopcavalcanti.github.io/distributed-twitter-consistency/) |
+| **Expression Compiler** | Compiladores: análise léxica, parsing LL(1) e geração de código intermediário de 3 endereços | [código](https://github.com/LeonardoPCavalcanti/python-expression-compiler) · [demo](https://leonardopcavalcanti.github.io/python-expression-compiler/) |
+| **Parallel Computing** | HPC: OpenMP vs. MPI, Lei de Amdahl, escalabilidade e offloading para GPU | [código](https://github.com/LeonardoPCavalcanti/c-openmp-mpi-parallel-computing) |
+| **FileVault** | Upload desacoplado via presigned URLs, validação por *magic bytes* e type-safety em monorepo | [código](https://github.com/LeonardoPCavalcanti/filevault) · [demo](https://filevault-henna.vercel.app) |
+
+<p align="center">Mais projetos e a lista completa de leituras de referência no <a href="https://leonardopcavalcanti.github.io/portfolio/">portfólio</a>.</p>
+
+---
+
 <h3 align="center">Atividade</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoPCavalcanti&bg_color=0d1117&color=30B8FF&line=30B8FF&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoPCavalcanti&bg_color=0d1117&color=C9E265&line=C9E265&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 </p>
