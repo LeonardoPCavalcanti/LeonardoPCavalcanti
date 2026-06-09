@@ -101,25 +101,3 @@
 </table>
 
 ---
-
-<h3 align="center">Projetos em destaque</h3>
-
-<p align="center"><i>Estou voltado à área acadêmica — cada projeto isola um conceito de Ciência da Computação e o torna tangível. Sinta-se à vontade para estudar junto.</i></p>
-
-| Projeto | Conceito que estuda | Links |
-|---|---|---|
-| **CineReserve** | Controle de concorrência: locks distribuídos atômicos (Redis `SET NX EX`), race conditions e idempotência | [código](https://github.com/LeonardoPCavalcanti/cinereserve) · [demo](https://leonardopcavalcanti.github.io/cinereserve/) |
-| **Distributed Twitter** | Sistemas distribuídos: relação *happened-before* de Lamport, Vector Clocks e consistência causal vs. eventual | [código](https://github.com/LeonardoPCavalcanti/distributed-twitter-consistency) · [demo](https://leonardopcavalcanti.github.io/distributed-twitter-consistency/) |
-| **Expression Compiler** | Compiladores: análise léxica, parsing LL(1) e geração de código intermediário de 3 endereços | [código](https://github.com/LeonardoPCavalcanti/python-expression-compiler) · [demo](https://leonardopcavalcanti.github.io/python-expression-compiler/) |
-| **Parallel Computing** | HPC: OpenMP vs. MPI, Lei de Amdahl, escalabilidade e offloading para GPU | [código](https://github.com/LeonardoPCavalcanti/c-openmp-mpi-parallel-computing) |
-| **FileVault** | Upload desacoplado via presigned URLs, validação por *magic bytes* e type-safety em monorepo | [código](https://github.com/LeonardoPCavalcanti/filevault) · [demo](https://filevault-henna.vercel.app) |
-
-<p align="center">Mais projetos e a lista completa de leituras de referência no <a href="https://leonardopcavalcanti.github.io/portfolio/">portfólio</a>.</p>
-
----
-
-<h3 align="center">Atividade</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoPCavalcanti&bg_color=0d1117&color=C9E265&line=C9E265&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-</p>
