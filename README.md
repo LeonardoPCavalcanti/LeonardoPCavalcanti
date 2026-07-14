@@ -15,11 +15,12 @@
 
 ### Sobre
 
-- Bolsista de Iniciação Científica no **IMD/UFRN** — desenvolvimento de soluções de **computação confidencial** como Desenvolvedor Full-Stack
-- Ex-bolsista como Técnico de Redes e Infraestrutura no **CCHLA/UFRN**
-- Ex-estagiário na **SEEC/RN** — desenvolvimento full-stack, manutenção de sistemas backend, automação de infraestrutura e QA
+- Criador e mantenedor do **SellerScope** — SaaS em produção com assinantes pagantes: extensão Chrome (Manifest V3) de análise de mercado para vendedores da Shopee, com cobrança recorrente, autorização por plano no backend (RLS + JWT) e CI/CD com testes automatizados
+- Ex-bolsista de Iniciação Científica no **IMD/UFRN** — desenvolvimento de mecanismos de identidade e integridade para aplicações em nuvem (computação confidencial), com resultados submetidos ao SBSeg 2026
+- Ex-estagiário na **SEEC/RN** — desenvolvimento full-stack de sistemas institucionais em produção, incluindo integração com o Banco do Brasil
+- Bolsista em Infraestrutura no **CCHLA/UFRN** — Linux, Docker e automação de servidores
 - Graduando em **Engenharia da Computação** na UFRN, em Natal/RN
-- Foco atual: **aplicações full-stack robustas** e interfaces que comunicam com precisão
+- Foco atual: **aplicações full-stack robustas**, com atenção a autorização, confiabilidade e testes
 
 ---
 
