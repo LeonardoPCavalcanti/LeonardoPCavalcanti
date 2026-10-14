@@ -1,96 +1,36 @@
-<h1 align="center">Leonardo Cavalcanti</h1>
+<a href="https://leonardopcavalcanti.github.io/portfolio/"><img src="assets/banner.png" alt="Leonardo Cavalcanti, desenvolvedor full-stack" width="100%"/></a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Syne&weight=700&color=C9E265&size=24&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full-Stack+Junior;Engenharia+da+Computa%C3%A7%C3%A3o+%E2%80%94+UFRN;C%C3%B3digo+%C2%B7+Arquitetura+%C2%B7+Design+Interativo" alt="Leonardo Cavalcanti" />
-</p>
+### Leonardo Cavalcanti · Desenvolvedor Full-Stack
 
-<p align="center">
-  <a href="https://leonardopcavalcanti.github.io/portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-C9E265?style=for-the-badge&logo=vercel&logoColor=080808" alt="Portfólio"/></a>
-  <a href="https://www.linkedin.com/in/leonardocavalcanti-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:leopcavalcanti30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=LeonardoPCavalcanti&style=for-the-badge&color=C9E265&label=PROFILE+VIEWS" alt="profile views"/>
-</p>
+- Construo e mantenho software em produção em Natal/RN; estudo Engenharia de Computação na UFRN.
+- Co-fundador do **[SellerScope](https://sellerscope.com.br)** (backend) e bolsista CNPq no **Edge4AI**, laboratório Conect2AI.
+- Coautor de **[Protegendo Modelos de IA com GPUs Confidenciais em Nuvens Não Confiáveis](https://doi.org/10.5753/sbseg.2026.27136)**, SBSeg 2026.
+- Foco: aplicações full-stack robustas, com atenção a autorização, confiabilidade e testes.
 
----
+#### Stack
 
-### Sobre
+![TypeScript](https://img.shields.io/badge/TypeScript-111110?style=for-the-badge&logo=typescript&logoColor=white)
+![React + Next.js](https://img.shields.io/badge/React_+_Next.js-111110?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111110?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111110?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker + CI/CD](https://img.shields.io/badge/Docker_+_CI/CD-111110?style=for-the-badge&logo=docker&logoColor=white)
 
-- Criador e mantenedor do **SellerScope** — SaaS em produção com assinantes pagantes: extensão Chrome (Manifest V3) de análise de mercado para vendedores da Shopee, com cobrança recorrente, autorização por plano no backend (RLS + JWT) e CI/CD com testes automatizados
-- Ex-bolsista de Iniciação Científica no **IMD/UFRN** — desenvolvimento de mecanismos de identidade e integridade para aplicações em nuvem (computação confidencial), com resultados submetidos ao SBSeg 2026
-- Ex-estagiário na **SEEC/RN** — desenvolvimento full-stack de sistemas institucionais em produção, incluindo integração com o Banco do Brasil
-- Bolsista em Infraestrutura no **CCHLA/UFRN** — Linux, Docker e automação de servidores
-- Graduando em **Engenharia da Computação** na UFRN, em Natal/RN
-- Foco atual: **aplicações full-stack robustas**, com atenção a autorização, confiabilidade e testes
+![Python](https://img.shields.io/badge/Python-CC4A1C?style=flat-square&logo=python&logoColor=white)
+![Java + Spring Boot](https://img.shields.io/badge/Java_+_Spring_Boot-CC4A1C?style=flat-square&logo=springboot&logoColor=white)
+![Vitest · Playwright](https://img.shields.io/badge/Vitest_·_Playwright-CC4A1C?style=flat-square&logo=vitest&logoColor=white)
+![IA aplicada](https://img.shields.io/badge/IA_aplicada-CC4A1C?style=flat-square&logo=openai&logoColor=white)
+![Kubernetes + Cloud](https://img.shields.io/badge/Kubernetes_+_Cloud-CC4A1C?style=flat-square&logo=kubernetes&logoColor=white)
 
----
+#### Projetos
 
-<h3 align="center">Stack Técnica</h3>
+| | Projeto | O que é | Stack | Evidência |
+|---|---|---|---|---|
+| 001 | **SellerScope** | SaaS para vendedores de marketplace: três extensões publicadas, cobrança recorrente e acesso por plano no banco | Next.js · PostgreSQL · Chrome MV3 | [site](https://sellerscope.com.br) |
+| 002 | **Conect2AI** | Site e painel do laboratório, com papéis, revisão antes de publicar e auditoria | Fastify · Prisma · Next.js | [case](https://leonardopcavalcanti.github.io/portfolio/#projetos) |
+| 003 | **Intranet IA** | Conteúdo gerado por LLMs com failover entre provedores e fine-tuning | Fastify · React · Python | [case](https://leonardopcavalcanti.github.io/portfolio/#projetos) |
+| 004 | **Zoonoses** | Estoque em tempo real com papéis de acesso e 2FA | React · Supabase | [demo](https://leonardopcavalcanti.github.io/zoonoses-inventory-dashboard/) · [código](https://github.com/LeonardoPCavalcanti/zoonoses-inventory-dashboard) |
+| 005 | **EloBelle** | E-commerce com Next.js no front e Spring Boot no back | Java · Spring Boot · Next.js | [case](https://leonardopcavalcanti.github.io/portfolio/#projetos) |
 
-<table align="center">
-<tr>
-<td valign="top" width="25%" align="center"><b>Linguagens</b></td>
-<td valign="top" width="75%">
+#### Contato
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td valign="top" align="center"><b>Frontend</b></td>
-<td valign="top">
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td valign="top" align="center"><b>Backend</b></td>
-<td valign="top">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td valign="top" align="center"><b>DevOps & Infra</b></td>
-<td valign="top">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-<h3 align="center">Projetos em destaque</h3>
-
-<p align="center"><i>Cada projeto isola um conceito de Ciência da Computação e o torna tangível — com demo ao vivo sempre que possível.</i></p>
-
-| Projeto | Conceito que estuda | Links |
-|---|---|---|
-| **Zoonoses Inventory** | Estado distribuído em tempo real: Supabase Realtime (WebSocket), Row Level Security e UI multiusuário reativa | [código](https://github.com/LeonardoPCavalcanti/zoonoses-inventory-dashboard) · [demo](https://leonardopcavalcanti.github.io/zoonoses-inventory-dashboard/) |
-| **FileVault** | Upload desacoplado via presigned URLs, validação por *magic bytes* e type-safety em monorepo | [código](https://github.com/LeonardoPCavalcanti/filevault) · [demo](https://filevault-api.vercel.app) |
-| **CineReserve** | Controle de concorrência: locks distribuídos atômicos (Redis `SET NX EX`), race conditions e idempotência | [código](https://github.com/LeonardoPCavalcanti/cinereserve) · [demo](https://leonardopcavalcanti.github.io/cinereserve/) |
-| **Distributed Twitter** | Sistemas distribuídos: relação *happened-before* de Lamport, Vector Clocks e consistência causal vs. eventual | [código](https://github.com/LeonardoPCavalcanti/distributed-twitter-consistency) · [demo](https://leonardopcavalcanti.github.io/distributed-twitter-consistency/) |
-| **Expression Compiler** | Compiladores: análise léxica, parsing LL(1) e geração de código intermediário de 3 endereços | [código](https://github.com/LeonardoPCavalcanti/python-expression-compiler) · [demo](https://leonardopcavalcanti.github.io/python-expression-compiler/) |
-
-<p align="center">Mais projetos e a lista completa de leituras de referência no <a href="https://leonardopcavalcanti.github.io/portfolio/">portfólio</a>.</p>
+[Portfólio](https://leonardopcavalcanti.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/leonardocavalcanti-dev) · [leopcavalcanti30@gmail.com](mailto:leopcavalcanti30@gmail.com)
